@@ -29,7 +29,7 @@ github_username:  prabhatjha
 linkedin_username: prabhatkjha
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
