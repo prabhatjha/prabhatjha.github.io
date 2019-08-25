@@ -10,7 +10,7 @@ Prabhat Jha is currently the CTO at [wootric.com](https://wootric.com/). Previou
 
 He originally is from Nepal and came to USA for his studies. His undergrad degree is in both computer science and mathematics from Fairmont State in West Virginia. His graduate degree is in mathematics with focus on computer science from the University of Texas as Austin. 
 
-He also runs [Eejot](wwww.eejot.org), a small scale non profit in Nepal, to help improve computer literacy and to brige the digital divide.
+He also runs [Eejot](www.eejot.org), a small scale non profit in Nepal, to help improve computer literacy and to brige the digital divide.
 
 
 
