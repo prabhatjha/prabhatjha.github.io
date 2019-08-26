@@ -72,7 +72,7 @@ After exploring several alternatives and looking at blogs of sotware professiona
 
 	* Go to settings page for your new repo and github and follow the setup for custom domain connection. Github has pretty good [documents with screenshots.](https://help.github.com/en/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site). This process adds a new file `CNAME` in your repo.
 	* Keep in mind that DNS resolutions take some time so you have to be patient. For me changes would take about 5-10 minutes before they were working.
-	* For SSL configuration it took Github about 4 hours before cert was generated. It's important that your A records and CNAME are setup properly at your registrat otherwise Github won't issue a certificate. 
+	* For SSL configuration it took Github about 4 hours before cert was generated. It's important that your A records and CNAME are setup properly at your registrar otherwise Github won't issue a certificate. 
 
 
 That's it. With these steps I have https://prabhatkjha.com working. After all you are reading this blog. ;-)
