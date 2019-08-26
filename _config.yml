@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Prabhat Jha
-email: prabhat143Atgmail.com 
+title: Prabhat Jha - Thinking Out Loud
+author: Prabhat Jha
 description: >- # this means to ignore newlines until "baseurl:"
   Opinions are all mine. My older blogs can be found at https://prabhatkjha.blogspot.com
 baseurl: "" # the subpath of your site, e.g. /blog
