@@ -5,11 +5,11 @@ tags: [howto]
 
 ---
 
-I am not new to blogging. My blog on [Blogspot](https://prabhatkjha.blogspot.com) is still "active", I have experimented with Wordpress, Medium, HubSpot and used several other platforms powering blogs at my employers. They all either seem bloated and are bloated because some require a database, some are not suited for engineering blog. A good engineering blog often requires code highlights and usually don't need bells and wishtles you often see on corporate blogs. 
+I am not new to blogging. My blog on [Blogspot](https://prabhatkjha.blogspot.com) is still "active", I have experimented with or used Wordpress, Drupal, Medium, HubSpot and used several other platforms powering blogs at my employers. They all either seem bloated and are bloated because some require a database, some are very opinionted, some slowly get you into plugins hell and some are hosted so you kind of loose control over your contents, and some are flat out not suited for engineering blog. A good engineering blog often requires code highlights and usually don't need bells and wishtles you often on these platforms. 
 
-After exploring several alternatives and looking at blogs of sotware professionals I enjoy I settled on `Jekyll` powered blog on Github. [Documentations from Github](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) are great but I still needed to do interweb search to get end to end setup working with https and custom domain. In true Open Source Software spirit here is a simple howto explaining the steps needed.
+After exploring several alternatives and looking at blogs of sotware professionals I enjoy I settled on `Jekyll` powered blog on Github. [Documentations from Github](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) are great but I still needed to do interweb search to get end to end setup working with https and custom domain. In true Open Source Software spirit here are more details followed by a simple howto explaining the steps needed.
 
-### First, pros of `Jekyll` and `Github Pages` :
+#### Pros of `Jekyll` and `Github Pages` :
 
 * No database needed. No server needed.
 * Easy to setup local development environment 
@@ -18,6 +18,11 @@ After exploring several alternatives and looking at blogs of sotware professiona
 * Don't need to know fancy `CSS` and `Javascript` to have a clean and well organized blogs
 * Amazing community to experiment with different plugins and themes
 * Get a SSL cert from Github to serve traffic under `https`. 
+
+#### Cons of `Jekyll` and `Github Pages` :
+
+* You need to know how to write code and use github.
+* Adding features like comments and search need 3rd party dependency.
 
 ### Here are the steps:
 
@@ -76,3 +81,5 @@ After exploring several alternatives and looking at blogs of sotware professiona
 
 
 That's it. With these steps I have https://prabhatkjha.com working. After all you are reading this blog. ;-)
+
+As I add more features I will try to keep this blog updated.
