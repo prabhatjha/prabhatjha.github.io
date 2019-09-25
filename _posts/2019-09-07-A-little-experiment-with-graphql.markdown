@@ -34,17 +34,18 @@ Recenlty I dug a little bit more to understand pros and cons of `GraphQL` and wh
 
 ### Pros and Cons ###
 
-I then played with the UI tool called `GraphiQL` and following pros and cons stick out:
+I then played with the UI tool called `GraphiQL` and following pros and cons stick out. The lens I have put is for the entire API lifecycle -- from design, deployment, documentation, monitoring, performance and common tools in this space.
 
 - Because you have to describe types, [see `end_users`,](https://github.com/prabhatjha/graphql-rails/blob/master/app/graphql/types/end_user_type.rb) you get the documentation for "free" and more importantly documentation is always consistent with actual implementation. 
 - The HTTP status code server returns is either `200` or `500`.  To return more granualar status codes and error messages you would have to implement that yourself. It's possible that there are tools and wrappers which make it easier for implementation but IMHO it's a big gap, for it means that most of API monitoring tools you rely on currently are useless in this context. 
 - From a client perspective there is one `URL` to hit. From a server perspective any advanced API analytics tools which give you a view of resources usage breakdown will be of no value. 
 - URL based routing that you often see on load balancers and API Gateway also are of no use. 
 - Well understood concepts such as **Authorization (eg OAuth)**, **Paginations** are harder to implement.
+- If your datastore is relational then traditional schema of normalized tables, relationship between tables may get in the way of performance. You might have to switch your datastore to optimize for the GraphQL like query. 
 
 I have not done lots of research on tools and frameworks in this space but it seems that it's an evolving space. Few prominent offerings are listed [here](https://graphql.org/code/#services). 
 
-In essence, you should approach using GraphQL for the use case it's built for, not just to look cool and to ditch REST apis. Picking a new framework is more than about just the framework itself. Some well known use cases are listed [here](https://www.graphql.com/case-studies/). I think the most pragmatic approach to expose this capability at your organzation would be to first expose it as a wrapper atop your existing REST apis instead of starting from scratch.  For a brand new project I suggest to build a small project with complete SDLC which includes CI/CD process and monitoring so that you identify gaps in all different dimensions namely people, product, process and infrastructure.
+In essence, you should approach using GraphQL for the use case it's built for, not just to look cool and to ditch REST apis. Picking a new framework is more than about just the framework itself. Some well known use cases are listed [here](https://www.graphql.com/case-studies/). I think the most pragmatic approach to expose this capability at your organzation would be to first expose it as a wrapper atop your existing REST apis instead of starting from scratch and get a feel of what you lack.  For a brand new project I suggest to build a small project with complete SDLC which includes CI/CD process and monitoring so that you identify gaps in all different dimensions namely people, product, process and infrastructure.
 
 
 
