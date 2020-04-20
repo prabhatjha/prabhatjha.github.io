@@ -15,7 +15,9 @@ In a normal situation most of tech companies do initial screening usually over c
 * Only few weeks back these college students were set to enter an amazing job market with historically low unemployment rate. They are probably shell shocked right now so have more empathy for them than you would normally have.
 * This situation is scarier for international students. 
 * It's likely that they live in noisy apartments or at home with kids arounds -- younger siblings, nephews and nieces. If you hear noises in the background or someone shows up on video unannounced remind the candidate that it's okay and you understand.  
-* Job interview is stressful in general so do everything you can to reduce stress for them. If you need to be convinced then just remember the times when you were on the other side of table. Some more concrete recommendations are here. I do most of these regardless.
+* Job interview is stressful in general so do everything you can to reduce stress for them. If you need to be convinced then just remember the times when you were on the other side of table. 
+
+Some more concrete recommendations are here. I do most of these regardless.
 
 # Initial Screening
 
