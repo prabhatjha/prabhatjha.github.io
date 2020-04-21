@@ -27,7 +27,7 @@ Think of it as a take home programming assignment with a generous deadline with 
 
 - Fully documented on how to build, test and run.
 
-Advantage of this approach is you see how they code in an environment they are comfortable with all the tools they have under a resoanable deadline. You get to see their code style, documentation style, thoroughness on test cases.
+Advantage of this approach is you see how they code in an environment they are comfortable with all the tools they have under a reasoanable deadline. You get to see their code style, documentation style, thoroughness on test cases.
 
 Schedule a screen sharing session to have them walk through their thinking process and decisions they made. Go deep as much as you need. This exercise will tell you a lot about a candidate than couple of 40-min code exercise done on the fly would. One of my candiates came up with 3 different solutions and it was interesting to see her thinking process from a basic solution to a more sophisticated solution.
 
