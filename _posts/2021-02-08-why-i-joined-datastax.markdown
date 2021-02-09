@@ -26,7 +26,7 @@ such as application server, portal platform and in-memory distributed data cache
 sum game when all players in the community participate in a true OSS spirit. 
 
 **Opportunity**: It’s a known fact that more data is generated each year but the majority of these data remain siloed. It’s operationally challenging to bring different 
-sources into one place in near real time. Enterprises who are good at this have significant advantage over their competitors but they do so at a heavy cost. It’s
+sources into one place in near real time. Enterprises which are good at this have significant advantage over their competitors but they do so at a heavy cost. It’s
 exciting to have a chance to work on a project that helps enterprises solve this problem efficiently. Imagine a product offering where developers and enterprises
 can use  and operate streaming as easily as they currently use a database as a service. 
 
