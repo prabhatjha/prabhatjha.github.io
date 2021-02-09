@@ -8,7 +8,7 @@ tags: [career]
 TLDR; Sometimes stars do align! For me these stars are open source, opportunity and people. 
 
 I joined [Datastax](www.datastax.com) to head the engineering effort to build data streaming offerings based on open source project Apache Pulsar. A new career opportunity should 
-have a good balance between problems that can leverage your existing strengths, and new challenges. With your strength you can make an impact immediately and help
+have a good balance between problems that can leverage your existing strengths, and throw some new challenges. With your strength you can make an impact immediately and help
 move the needle at your new job while new challenges are what helps you learn new skills, get you excited and help you grow into your career.  Let’s talk about the
 stars and how they map to strengths and challenges . 
 
