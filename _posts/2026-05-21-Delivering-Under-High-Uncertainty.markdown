@@ -23,7 +23,7 @@ When technical or product roadblocks arise, do not simply escalate the issue to 
 In rapidly changing environments, rigid specialization is a liability. You need a lean, agile "crack team" capable of operating with a **T-shaped skill profile**. Every member should be capable of going broad across the entire problem space to unblock colleagues, while possessing the capability to dive incredibly deep into specific, highly technical domains when a critical bottleneck arises.
 
 ### 5. Build Strategic Alliances
-You cannot build everything in a vacuum, especially when time is short. Identify the internal teams whose infrastructure, APIs, or data you need. Build alliances early. Instead of just throwing a feature request over the fence because they likely have their own goals to hit, offer a collaborative compromise: *“We will write the extension or do the heavy lifting if your team can provide architectural consulting and prioritize code reviews.”*
+You cannot build everything in a vacuum, especially when time is short. Identify the internal teams whose infrastructure, APIs, or data you need. Build alliances early. Instead of just throwing a feature request over the fence when they have their own goals to hit, offer a collaborative compromise: *“We will write the extension or do the heavy lifting if your team can provide architectural consulting and prioritize code reviews.”*
 
 ### 6. Shorten the Feedback Loop
 When the ground is shifting beneath your feet, quarterly or even monthly milestones are useless. Tighten your execution loops:
@@ -35,7 +35,7 @@ When the ground is shifting beneath your feet, quarterly or even monthly milesto
 In high-uncertainty projects, silence equals failure in the eyes of stakeholders. Over-communicate aggressively. Share your progress, but be radically transparent about your *lack* of progress. If a dependency is blocked or a research hypothesis fails, flag it immediately. Managing stakeholder expectations with real-time data builds immense trust.
 
 ### 8. Find Your "Customer Zero"
-Never build an entire product based solely on internal assumptions. You need external validation immediately. Big companines have massive advantage : you can find an internal team or partner to act as **Customer Zero**. They provide the perfect proxy for early adopters, giving you harsh, realistic feedback before you ever launch to the public.
+Never build an entire product based solely on internal assumptions. You need external validation immediately. Big companines have massive advantage : you can find an internal team or partner to act as **Customer Zero**. They provide the perfect proxy for early adopters, giving you harsh, realistic feedback before you ever launch to the public. In my case for Vector Search I partnered with a fast growing startup, [PhysicsWallah](https://www.youtube.com/watch?v=jfp7lQL5CPM) from the alpha version launch to the full blown apps used by 10M+ students.
 
 ### 9. Treat Early Adopters as Co-Developers
 Once you have your early customers or Customer Zero, make them your professional BFFs (channeling my teenage kid). Treat their feedback and feature requests as P0. Do not sit in an ivory tower reviewing telemetry; get in the trenches with them. debug their deployments, understand their pain points, and iterate alongside them. Their success is your validation.
