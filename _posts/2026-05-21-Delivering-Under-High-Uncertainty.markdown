@@ -4,7 +4,7 @@ title: "An Engineering Leader’s Playbook for Delivering High Ambiguity and Rap
 date: 2026-05-24
 categories: [leadership, execution]
 ---
-A couple of weeks ago I gave an internal talk at IBM to the next batch of soon to be distinguished engineers, a highly coveted recognition at IBM. This blog is a brief summary of that hour long talk.
+A couple of weeks ago I gave an internal talk at IBM to the next batch of soon to be distinguished engineers. Distinguished engineer designation at IBM a highly coveted recognition. This blog is a brief summary of that hour long talk.
 
 As senior engineering leaders or research leads, our value isn’t measured just by the code our teams write or the features we implement or the papers we publish. Those are expected by default at our level. Our value instead is measured by our ability to deliver high-impact results when the product vision is a moving target, the architecture is unproven, and the timeline is aggressive. 
 
